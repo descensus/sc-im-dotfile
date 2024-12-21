@@ -31,7 +31,7 @@ REDEFINE_COLOR "BLACK"      30  30  46
 DEFINE_COLOR   "MANTLE"     24  24  37
 DEFINE_COLOR   "CRUST"      17  17  27
 
-olor "type=NORMAL fg=TEXT bg=BLACK"
+color "type=NORMAL fg=TEXT bg=BLACK"
 color "type=WELCOME fg=MAGENTA bg=BLACK bold=0"
 color "type=HEADINGS fg=TEXT bg=CRUST"
 color "type=HEADINGS_ODD fg=TEXT bg=MANTLE"
